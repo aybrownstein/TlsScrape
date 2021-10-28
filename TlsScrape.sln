@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TlsScrape.Web", "TlsScrape.Web\TlsScrape.Web.csproj", "{ECA1C047-7307-413D-A94F-2D7508E4725D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TlsScraping.Scraper", "TlsScraping.Scraper\TlsScraping.Scraper.csproj", "{4251A59C-D3F7-4950-A784-6ED13F56158D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECA1C047-7307-413D-A94F-2D7508E4725D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECA1C047-7307-413D-A94F-2D7508E4725D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECA1C047-7307-413D-A94F-2D7508E4725D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECA1C047-7307-413D-A94F-2D7508E4725D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4251A59C-D3F7-4950-A784-6ED13F56158D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4251A59C-D3F7-4950-A784-6ED13F56158D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4251A59C-D3F7-4950-A784-6ED13F56158D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4251A59C-D3F7-4950-A784-6ED13F56158D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E483CA4E-1783-4689-9829-175C509D0901}
+	EndGlobalSection
+EndGlobal
